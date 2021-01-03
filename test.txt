@@ -1,0 +1,1 @@
+This is a test file that was created from the command line (in this case the git bash virutal terminal)
